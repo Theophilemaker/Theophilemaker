@@ -139,8 +139,8 @@ academic projects and project allocations.
 ## 📫 Let's Connect
 
 - GitHub: https://github.com/Theophilemaker
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/feed/)
-- Portfolio: [YOUR_PORTFOLIO_URL](https://nirathena.kesug.com/)
+- LinkedIn: [LINKEDIN](https://www.linkedin.com/feed/)
+- Portfolio: [MY PORTFOLIO](https://nirathena.kesug.com/)
 - Email: theophilen298@gmail.com
 
 ---
