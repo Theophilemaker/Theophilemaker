@@ -89,6 +89,7 @@ farmers, cooperatives and agricultural stakeholders.
 - Intelligent agricultural decision support
 
 **Repository:** [hackaton_saip](https://github.com/Theophilemaker/hackaton_saip)
+**Explore more about SAIP ** [smart Artificial intelligence](https://smartap.totalh.net/)
 
 ### 2. EduSmart – E-Learning Platform
 
